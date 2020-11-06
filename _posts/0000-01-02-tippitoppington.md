@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our tippitoppington's slide!"
+title: "Welcome to tippitoppington's slide!"
 ---
 
 This is my awesome slide :tada;
